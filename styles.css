@@ -88,7 +88,42 @@ nav a:hover {
     color: #ccc;
     font-size: 18px;
 }
+#Project {
+    padding: 60px 10%;
+    background-color: #121212;
+    text-align: center;
+}
 
+#Project h2 {
+    font-size: 36px;
+    color: #9d4edd;
+    margin-bottom: 20px;
+}
+
+#Project p {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #ccc;
+    font-size: 18px;
+}
+#Contact {
+    padding: 60px 10%;
+    background-color: #121212;
+    text-align: center;
+}
+
+#Contact h2 {
+    font-size: 36px;
+    color: #9d4edd;
+    margin-bottom: 20px;
+}
+
+#Contact p {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #ccc;
+    font-size: 18px;
+}
 footer {
     text-align: center;
     padding: 20px;
